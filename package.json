@@ -11,7 +11,7 @@
     "history": "^5.0.0",
     "immutable": "^4.0.0-rc.12",
     "jquery": "^3.5.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "popper": "^1.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
